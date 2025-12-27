@@ -1,6 +1,6 @@
-## Preview
+# Preview
 
 ![Elementor Header Preview](header.jpg)
 
-# Note
+## Note
 Must Enable Elementor Pro
